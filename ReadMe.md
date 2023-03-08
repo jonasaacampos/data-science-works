@@ -36,7 +36,7 @@ Código fonte e aplicação gratuito para quaisquer finalidades. Peço que se po
 
 - [Ciências Médicas / Saúde Pública 🧬🩺💉](#ciências-médicas--saúde-pública-)
 - [Algoritmos / Matemática 🧮👩‍🔬♾️](#algoritmos--matemática-️)
-- [Ciências Humanas 🧭💡🤔](#ciências-humanas-)
+- [Ciências Humanas 🧭💡👩🏾‍🔬](#ciências-humanas-)
 - [Cont(r)ate-me 📫:](#contrate-me-)
 
 
@@ -51,7 +51,7 @@ Código fonte e aplicação gratuito para quaisquer finalidades. Peço que se po
 - [Uso de expressões regulares para Limpeza de dados: Funções anônimas e Pandas](uso-de-express-es-regulares-no-tratamento-de-dados.ipynb)
 - [Performance de expressões regulares com funções anônimas (lambdas) e Pandas](performance-de-regex-lambdas-vs-pandas.ipynb)
   
-## Ciências Humanas 🧭💡🤔
+## Ciências Humanas 🧭💡👩🏾‍🔬
 
 - [ Análise exploratória do sistema de votação 2022](analise-exploratoria-do-sistema-de-votacao-2022.ipynb)
 
