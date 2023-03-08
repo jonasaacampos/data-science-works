@@ -37,7 +37,7 @@ Código fonte e aplicação gratuito para quaisquer finalidades. Peço que se po
 - [Ciências Médicas / Saúde Pública 🧬🩺💉](#ciências-médicas--saúde-pública-)
 - [Algoritmos / Matemática 🧮👩‍🔬♾️](#algoritmos--matemática-️)
 - [Ciências Humanas 🧭💡🤔](#ciências-humanas-)
-- [📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:](#-𝙷𝚘𝚠-𝚝𝚘-𝚛𝚎𝚊𝚌𝚑-𝚖𝚎)
+- [Cont(r)ate-me 📫:](#contrate-me-)
 
 
 
@@ -49,7 +49,7 @@ Código fonte e aplicação gratuito para quaisquer finalidades. Peço que se po
 ## Algoritmos / Matemática 🧮👩‍🔬♾️
 
 - [Uso de expressões regulares para Limpeza de dados: Funções anônimas e Pandas](uso-de-express-es-regulares-no-tratamento-de-dados.ipynb)
-- Performance de expressões regulares com funções anônimas (lambdas) e Pandas - (EM BREVE)
+- [Performance de expressões regulares com funções anônimas (lambdas) e Pandas](performance-de-regex-lambdas-vs-pandas.ipynb)
   
 ## Ciências Humanas 🧭💡🤔
 
@@ -58,9 +58,7 @@ Código fonte e aplicação gratuito para quaisquer finalidades. Peço que se po
 
 -----------
 
-## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
-
-----
+## Cont(r)ate-me 📫:
 
 <p align='center'>
   <a href='https://github.com/jonasaacampos'>
@@ -77,4 +75,4 @@ Código fonte e aplicação gratuito para quaisquer finalidades. Peço que se po
   </a>
 </p>
 
-[![jonasaacampos header](img/banner2.png)](https://github.com/jonasaacampos)
+![jonasaacampos header](https://raw.githubusercontent.com/jonasaacampos/jonasaacampos/master/img/banner2.png)
